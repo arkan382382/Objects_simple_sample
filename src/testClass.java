@@ -1,5 +1,6 @@
 /**
  * Created by Sebastian on 29.04.2017.
+ * https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
  */
 public class testClass {
     public static void main(String[] args){
