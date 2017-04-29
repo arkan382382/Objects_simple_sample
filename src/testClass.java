@@ -5,7 +5,7 @@ public class testClass {
     public static void main(String[] args){
 
         Point originOne = new Point(10, 20);
-        Rectangle one = new Rectangle(originOne, 100, 200);    // origin -> originOne
+        Rectangle one = new Rectangle(originOne, 100, 200);    // origin -> originOne ;)
         // 200 100 0 0
         System.out.println("Show current location of rectangle: " + one.height + " " + one.width + " " + one.origin.x + " " + one.origin.y);
         one.move(9, 9);
